@@ -1,0 +1,14 @@
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\bin\Debug\net9.0\Assignment-3-NumToWord.exe
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\bin\Debug\net9.0\Assignment-3-NumToWord.deps.json
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\bin\Debug\net9.0\Assignment-3-NumToWord.runtimeconfig.json
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\bin\Debug\net9.0\Assignment-3-NumToWord.dll
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\bin\Debug\net9.0\Assignment-3-NumToWord.pdb
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\obj\Debug\net9.0\Assignment-3-NumToWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\obj\Debug\net9.0\Assignment-3-NumToWord.AssemblyInfoInputs.cache
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\obj\Debug\net9.0\Assignment-3-NumToWord.AssemblyInfo.cs
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\obj\Debug\net9.0\Assignment-3-NumToWord.csproj.CoreCompileInputs.cache
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\obj\Debug\net9.0\Assignment-3-NumToWord.dll
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\obj\Debug\net9.0\refint\Assignment-3-NumToWord.dll
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\obj\Debug\net9.0\Assignment-3-NumToWord.pdb
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\obj\Debug\net9.0\Assignment-3-NumToWord.genruntimeconfig.cache
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\Assignment-3-NumToWord-Solution\Assignment-3-NumToWord\obj\Debug\net9.0\ref\Assignment-3-NumToWord.dll
